@@ -1,0 +1,17 @@
+torch
+numpy==1.26.4
+opencv-python
+pandas
+matplotlib
+seaborn
+timm
+albumentations
+scikit-learn
+torchvision
+torchcam
+mediapipe
+Pillow
+ftfy
+regex
+tqdm
+git+https://github.com/openai/CLIP.git
